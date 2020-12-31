@@ -1,0 +1,7 @@
+name: LMResources
+version: ${project.version}
+main: xyz.kerubu.lmresources.lmresources.LMResources
+api-version: 1.16
+authors: [MrNizzy]
+description: Plugin para gestionar recursos en un mundo RPG
+website: kerubu.xyz
